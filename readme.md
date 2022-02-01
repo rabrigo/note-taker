@@ -45,10 +45,10 @@ You will see its note title display on the left column. The 'Note Title' and 'No
 
 ![screenshot](./images/screen5.png)
 
-## Future Developments
+## Future Updates
 
 <ul>
-  <li>Functioning delete button</li>
-  <li>Overwrite db.json with blank array if the file causes errors</li>
+  <li>Working delete button</li>
+  <li>Function that overwrites db.json with blank array if the file causes errors</li>
 </ul>
 
