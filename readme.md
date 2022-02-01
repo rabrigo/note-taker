@@ -1,5 +1,9 @@
 ### About Note Taker
 
+Click the GIF to watch a video demo of Note Taker:
+
+[![Watch the video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/a4c3dae5-874f-4806-8d3c-5436b75e2680.gif?ClientID=vimeo-core-prod&Date=1643678177&Signature=4d8d58e4f2d3f7a8937d71c0199c72d4f170f84a)](https://vimeo.com/672174003/99b35394b3)
+
 <details>
 <summary>Table of Contents</summary>
   <ol>

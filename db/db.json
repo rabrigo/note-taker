@@ -6,5 +6,13 @@
     {
         "title": "Turn in HW",
         "text": "Finish ReadMe and video. Upload to GitHub"
+    },
+    {
+        "title": "New Note",
+        "text": "Render demo video"
+    },
+    {
+        "title": "Upload Video",
+        "text": "Render in final cut pro and upload in vimeo"
     }
 ]
